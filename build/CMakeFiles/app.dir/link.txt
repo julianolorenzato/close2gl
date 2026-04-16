@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/app.dir/src/main.cpp.o -o app   -L/usr/lib/gcc/x86_64-linux-gnu/12  libglad.a -lGL libimgui.a /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 

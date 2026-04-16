@@ -1,3 +1,0 @@
-/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate.dir
-/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/_deps/imgui-subbuild/CMakeFiles/edit_cache.dir
-/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/_deps/imgui-subbuild/CMakeFiles/rebuild_cache.dir
