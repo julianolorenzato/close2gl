@@ -1,0 +1,5 @@
+/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/CMakeFiles/glad.dir
+/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/CMakeFiles/imgui.dir
+/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/CMakeFiles/app.dir
+/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/CMakeFiles/edit_cache.dir
+/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build/CMakeFiles/rebuild_cache.dir

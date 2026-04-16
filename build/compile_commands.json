@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/gcc-12  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/glad/include -g -o CMakeFiles/glad.dir/external/glad/src/glad.c.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/glad/src/glad.c",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/glad/src/glad.c"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -g -std=gnu++11 -o CMakeFiles/imgui.dir/external/imgui/imgui.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -g -std=gnu++11 -o CMakeFiles/imgui.dir/external/imgui/imgui_draw.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui_draw.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -g -std=gnu++11 -o CMakeFiles/imgui.dir/external/imgui/imgui_widgets.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui_widgets.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -g -std=gnu++11 -o CMakeFiles/imgui.dir/external/imgui/imgui_tables.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui_tables.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -g -std=gnu++11 -o CMakeFiles/imgui.dir/external/imgui/backends/imgui_impl_glfw.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++  -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -g -std=gnu++11 -o CMakeFiles/imgui.dir/external/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/build",
+  "command": "/usr/bin/c++ -DMODEL_DIR=\\\"/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/models\\\" -DSHADER_DIR=\\\"/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/shaders\\\" -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/glad/include -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui -I/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/external/imgui/backends -isystem /usr/lib -g -std=gnu++11 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/src/main.cpp",
+  "file": "/home/juliano/Masters/GraphicsComputing/close2gl-without-rasterization/src/main.cpp"
+}
+]
